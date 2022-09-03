@@ -17,3 +17,11 @@ section {
 div {
     padding: 8px;
 }
+
+img {
+    max-width: 100%;
+}
+
+@media (max-width: 460px) {
+    
+}
